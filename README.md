@@ -1,4 +1,6 @@
-Promises
+Promises (not the song)
 ========
 
-A description of Promises in Javascript
+###What is a promise?
+According to MDN: <em>The Promise object is used for deferred and asynchronous computations.<em>
+
