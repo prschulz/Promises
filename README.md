@@ -70,7 +70,7 @@ A promise is a placeholder for a result which is initially unknown while a **def
 A promise may only move from unfulfilled to either fulfilled or failed. Upon resolution or rejection, any observers are notified and passed the promise / value. Once the promise has been resolved or rejected neither it’s state or the resulting value can be modified.
 
 ###Handlers?
-A handler 'handles' the resulting data once the promise has been fulfilled / Failed. Essentially, the .then -or- .when's of the process. 
+A handler 'handles' the resulting data once the promise has been fulfilled / failed. Essentially, the .then -or- .when's of the process. 
 
 ```javascript
 // Promise to be filled with future value
