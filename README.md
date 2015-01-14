@@ -108,7 +108,9 @@ There are a good few libraries. As always, not all libraries are created equal. 
 [Promise Libraries](http://complexitymaze.com/2014/03/03/javascript-promises-a-comparison-of-libraries/)
 
 ####Interesting food for thought on the future: GENERATORS
-Possibly the next big thing for control flow in javascript will be "Generators", included in upcoming JS 6 "Harmony".  A few links to launch your generator exploration. Also note, the promise library comparison above says whether or not each library will support future generators. 
+The next big thing for control flow in javascript will be "Generators" in ECMAScript6. With ES6 generators, we have a different kind of function, which may be paused in the middle, one or many times, and resumed later, allowing other code to run during these paused periods.
+
+Also note, the promise library comparison above says whether or not each library will support future generators. 
 
 [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
 
